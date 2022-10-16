@@ -15,6 +15,24 @@ function solution(n, k) {
 }
 ```
 
+jabae
+
+```js
+function solution(n, k) {
+    const checkPrime = (num) => {
+        if (num === 2 || num === 3) return true
+        for (let i = 2; i <= Math.sqrt(num); i++) {
+            if (num % i === 0) return false;
+        }
+        return true
+    }
+    return n.toString(k)
+            .split('0')
+            .filter((x) => x !== '1' && x !== '' && checkPrime(+x))
+            .length;
+}
+```
+
 daekim
 
 ```js
