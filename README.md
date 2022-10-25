@@ -1,8 +1,10 @@
 # Study Rules
 ## 1. 멤버
-🐥 [김지현 @jihyukim](https://github.com/tamagoyakii) <br>
-🐰 [배재영 @jabae](https://github.com/pearpearB) <br>
-🐻 [김대현 @daekim](https://github.com/KimDae-hyun)
+|멤버|github|velog|
+|:--:|:--:|:--:|
+|🐥 김지현|[tamagoyakii](https://github.com/tamagoyakii)|[tamagoyakii.log](https://velog.io/@tamagoyakii)|
+|🐰 배재영|[pearpearB](https://github.com/pearpearB)|[pearpearb.log](https://velog.io/@pearpearb)|
+|🐻 김대현|[KimDae-hyun](https://github.com/KimDae-hyun)|[daekim.log](https://velog.io/@dev_kdh)|
 ## 2. 시간
 매주 월요일, 목요일 2:00pm
 ## 3. 과제
