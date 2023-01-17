@@ -5,6 +5,7 @@
 |🐥 김지현(jihyukim)|[tamagoyakii](https://github.com/tamagoyakii)|[tamagoyakii.log](https://velog.io/@tamagoyakii)|
 |🐰 배재영(jabae)|[pearpearB](https://github.com/pearpearB)|[pearpearb.log](https://velog.io/@pearpearb)|
 |🐻 김대현(daekim)|[KimDae-hyun](https://github.com/KimDae-hyun)|[daekim.log](https://velog.io/@dev_kdh)|
+|🐱 김지윤(jiyokim)|[kjy00](https://github.com/kjy00)|[jyoonIT](https://jyoonit.tistory.com/)|
 ## 2. 시간
 매주 월요일, 목요일 2:00pm
 ## 3. 과제
@@ -23,4 +24,8 @@ jabae
 daekim
 ```js
 // code
+```
+jiyokim
+```js
+//code
 ```
